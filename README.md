@@ -1,20 +1,12 @@
 # KPOP_CRAWLER
 
-
-
 ## Description
-
----
 
 A php project that can get latest **K-POP song's Hyperlink** on YOUTUBE.
 
 You can quickly listen to the latest K-POP songs.
 
-
-
 ## Dependencies
-
----
 
 - php
 
@@ -23,10 +15,8 @@ You can quickly listen to the latest K-POP songs.
 - phantomjs
 
 
-
 ## Source
 
----
 
 A list which sorted by [愛低音的國王](%5Bhttps://www.youtube.com/channel/UC21nz3_MesPLqtDqwdvnoxA%5D(https://www.youtube.com/channel/UC21nz3_MesPLqtDqwdvnoxA)) ：  [2019 韓語最新單曲](https://www.youtube.com/watch?v=5CcVngv5ALw&list=PLsyOSbh5bs167CNITCeKwDG-1OofQcINS).
 
@@ -36,7 +26,6 @@ All songs are from YOUTUBE.
 
 ## Usage
 
----
 
 Clone this repository
 
@@ -72,7 +61,6 @@ Then, open your browser to connect to `localhost/kpop_crawler`OR type `php index
 
 ## Future
 
----
 
 Here is something I will do in the future.
 
@@ -87,5 +75,3 @@ I will use MySQL/MariaDB to do these projects.
 - [ ] Linked to **Spotify** , find LIKED list's songs and add them into **Spotify's playlist**(While it is difficult for me)
 
 ## HAVE FUN!!!
-
-
