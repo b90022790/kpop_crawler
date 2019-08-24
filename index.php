@@ -2,7 +2,7 @@
 require_once("vendor/autoload.php");
 ini_set('display_errors',0);
 
-
+echo "<meta charset='utf-8'>";
 $action=new Crawler(CONFIG::$URL);
 $output=$action->curl_url();
 $dom = new DOMDocument();

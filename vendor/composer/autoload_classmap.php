@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'CONFIG' => $baseDir . '/lib/config.php',
+    'Crawler' => $baseDir . '/lib/Crawler.php',
     'JonnyW\\PhantomJs\\Cache\\CacheInterface' => $vendorDir . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Cache/CacheInterface.php',
     'JonnyW\\PhantomJs\\Cache\\FileCache' => $vendorDir . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Cache/FileCache.php',
     'JonnyW\\PhantomJs\\Client' => $vendorDir . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Client.php',

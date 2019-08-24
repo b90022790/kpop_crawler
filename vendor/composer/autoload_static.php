@@ -86,6 +86,7 @@ class ComposerStaticInit87cc95781822af8baa8167e2f66d3c60
 
     public static $classMap = array (
         'CONFIG' => __DIR__ . '/../..' . '/lib/config.php',
+        'Crawler' => __DIR__ . '/../..' . '/lib/Crawler.php',
         'JonnyW\\PhantomJs\\Cache\\CacheInterface' => __DIR__ . '/..' . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Cache/CacheInterface.php',
         'JonnyW\\PhantomJs\\Cache\\FileCache' => __DIR__ . '/..' . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Cache/FileCache.php',
         'JonnyW\\PhantomJs\\Client' => __DIR__ . '/..' . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Client.php',
